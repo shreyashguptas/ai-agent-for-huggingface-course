@@ -130,10 +130,7 @@ def main():
     )
     
     # Initialize the agent
-    agent = GaiaAgent(
-        api_key=config["openai_api_key"],
-        model_name=config["model_name"]
-    )
+    agent = GaiaAgent()
     
     results = None
     
