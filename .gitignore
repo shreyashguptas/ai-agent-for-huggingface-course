@@ -17,3 +17,11 @@ evaluation_results.json
 *.pptx
 *.ppt
 *.pdf
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
