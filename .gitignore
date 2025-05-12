@@ -8,3 +8,12 @@ evaluation_results.json
 
 *.json
 *.jsonl
+
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.pdf
