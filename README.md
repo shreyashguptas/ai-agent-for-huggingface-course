@@ -1,3 +1,5 @@
+[<img src="hf-logo.svg" alt="Hugging Face" width="80" style="vertical-align:middle;">](https://huggingface.co)
+
 # AI Agent for GAIA Benchmark (Hugging Face Project)
 
 ## Project Overview
