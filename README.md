@@ -2,6 +2,8 @@
 
 # AI Agent for GAIA Benchmark (Hugging Face Project)
 
+[Link to the AI Agents course](https://huggingface.co/learn/agents-course/unit0/introduction)
+
 ## Project Overview
 
 This project was completed as part of a Hugging Face challenge, where I built an AI agent capable of answering a diverse set of questions using a variety of tools and data sources. I successfully passed the challenge and received a certificate for my work.
