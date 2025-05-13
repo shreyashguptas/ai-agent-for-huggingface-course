@@ -25,3 +25,12 @@ evaluation_results.json
 *.bmp
 *.tiff
 *.ico
+
+
+*.mp3
+*.wav
+*.m4a
+*.ogg
+*.flac
+*.aac
+*.wma
